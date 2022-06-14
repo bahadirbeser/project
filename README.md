@@ -48,7 +48,7 @@ This project is to show what we have learned about git and to show our compenten
 * [numpy] 
 * [Pandas]
 
-Credits
+####Credits
 Course created by Udacity, project upload, updates and git updates by Bahadir Beser
 
 ----
