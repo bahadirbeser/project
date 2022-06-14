@@ -44,7 +44,7 @@ to uncover bike share usage patterns
 
 ##### Explore-US-Bikeshare-Data uses some open source projects to work properly:
 
-* [Python 3] 
+* [Python 3] "adviced"
 * [ipython] 
 * [numpy] 
 * [Pandas]
