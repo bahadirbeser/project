@@ -2,8 +2,7 @@
 ------------------------------------------------------------------------------------------------------------------------------
 # Project:
 
-In project, data is provided by Motivate, a bike share system provider for many cities in the United States, 
-to uncover bike share usage patterns
+This project is to show what we have learned about git and to show our compentency level
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -48,6 +47,9 @@ to uncover bike share usage patterns
 * [ipython] 
 * [numpy] 
 * [Pandas]
+
+Credits
+Course created by Udacity, project upload, updates and git updates by Bahadir Beser
 
 ----
 
